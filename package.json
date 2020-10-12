@@ -1,0 +1,16 @@
+{
+  "name": "github-packages-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarahmed382/github-packages-node.git"
+  }
+}
