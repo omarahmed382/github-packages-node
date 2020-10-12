@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/omarahmed382/github-packages-node.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@omarahmed382"
   }
 }
